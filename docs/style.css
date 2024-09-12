@@ -1266,7 +1266,7 @@ text-indent: 0;
 }
 body:not(.ttr_ecommerce)  #ttr_content ul, .editor-styles-wrapper ul
 {
-list-style-image:url(images/1671776522listimg.png);
+list-style-image:url(images/1117702208listimg.png);
 }
 body:not(.ttr_ecommerce)  #ttr_content ul li, .html_content ul li, .html_content ul li p, .ttr_block .html_content ul li p, .html_content ul li h1, .html_content ul li h2, .html_content ul li h3, .html_content ul li h4, .html_content ul li h5, .html_content ul li h6,  footer#ttr_footer .html_content ul li h1,  footer#ttr_footer .html_content ul li h2,  footer#ttr_footer .html_content ul li h3,  footer#ttr_footer .html_content ul li h4,  footer#ttr_footer .html_content ul li h5,  footer#ttr_footer .html_content ul li h6
 {
@@ -1743,7 +1743,7 @@ padding-left: 0;
 margin-left:0 !important;
 position: static;
 }
- .ttr_de-stands_html_row0, .ttr_de-stands_html_row0
+ .ttr_index_html_row0, .ttr_index_html_row0
 {
 border-radius:0 0 0 0;
 border:solid transparent;
@@ -1751,7 +1751,7 @@ border-width: 0 0 0 0;
 box-shadow:none;background-color:transparent;
 background:rgba(255,255,255,0);
 background-clip:padding-box;}
- .ttr_de-stands_html_column00, .ttr_de-stands_html_column00
+ .ttr_index_html_column00, .ttr_index_html_column00
 {
 border-radius:0 0 0 0;
 border:solid transparent;
@@ -1763,7 +1763,7 @@ word-wrap:break-word;
 box-sizing: border-box;
 overflow: hidden;
 }
- .ttr_de-stands_html_row1, .ttr_de-stands_html_row1
+ .ttr_index_html_row1, .ttr_index_html_row1
 {
 border-radius:0 0 0 0;
 border:solid transparent;
@@ -1771,7 +1771,7 @@ border-width: 0 0 0 0;
 box-shadow:none;background-color:transparent;
 background:rgba(255,255,255,0);
 background-clip:padding-box;}
- .ttr_de-stands_html_column10, .ttr_de-stands_html_column10
+ .ttr_index_html_column10, .ttr_index_html_column10
 {
 border-radius:0 0 0 0;
 border:solid transparent;
@@ -1783,7 +1783,7 @@ word-wrap:break-word;
 box-sizing: border-box;
 overflow: hidden;
 }
- .ttr_de-stands_html_column11, .ttr_de-stands_html_column11
+ .ttr_index_html_column11, .ttr_index_html_column11
 {
 border-radius:0 0 0 0;
 border:solid transparent;
@@ -1795,7 +1795,7 @@ word-wrap:break-word;
 box-sizing: border-box;
 overflow: hidden;
 }
- .ttr_de-stands_html_column12, .ttr_de-stands_html_column12
+ .ttr_index_html_column12, .ttr_index_html_column12
 {
 border-radius:0 0 0 0;
 border:solid transparent;
@@ -1807,7 +1807,7 @@ word-wrap:break-word;
 box-sizing: border-box;
 overflow: hidden;
 }
- .ttr_de-stands_html_column13, .ttr_de-stands_html_column13
+ .ttr_index_html_column13, .ttr_index_html_column13
 {
 border-radius:0 0 0 0;
 border:solid transparent;
@@ -3509,11 +3509,11 @@ text-shadow:none;text-align:left;
 text-decoration:none;}
  #ttr_content blockquote p:before, .editor-styles-wrapper blockquote p:before
 {
-content:url(images/1671776522blockquotestarticon.png);
+content:url(images/1117702208blockquotestarticon.png);
 }
  #ttr_content blockquote p:after, .editor-styles-wrapper blockquote p:after
 {
-content:url(images/1671776522blockquoteendicon.png);
+content:url(images/1117702208blockquoteendicon.png);
 }
 table.table
 {
@@ -5281,7 +5281,7 @@ clear: none;
 }
  #nav
 {
-top:164px;
+top:108px;
 position:absolute;
 z-index:502;
 left: 40.62%;
