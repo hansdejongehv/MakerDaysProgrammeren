@@ -95,18 +95,6 @@ word-wrap:break-word;
 box-sizing: border-box;
 overflow: hidden;
 }
-.activiteiten .ttr_activiteiten_html_column22, .ttr_activiteiten_html_column22
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
 .activiteiten .ttr_header_logo a:first-child, .activiteiten .ttr_header_logo a:last-child{
 display: inline-block;}
 .activiteiten .ttr_menu_logo_text 
@@ -1266,7 +1254,7 @@ text-indent: 0;
 }
 body:not(.ttr_ecommerce)  #ttr_content ul, .editor-styles-wrapper ul
 {
-list-style-image:url(images/1473870881listimg.png);
+list-style-image:url(images/1480658372listimg.png);
 }
 body:not(.ttr_ecommerce)  #ttr_content ul li, .html_content ul li, .html_content ul li p, .ttr_block .html_content ul li p, .html_content ul li h1, .html_content ul li h2, .html_content ul li h3, .html_content ul li h4, .html_content ul li h5, .html_content ul li h6,  footer#ttr_footer .html_content ul li h1,  footer#ttr_footer .html_content ul li h2,  footer#ttr_footer .html_content ul li h3,  footer#ttr_footer .html_content ul li h4,  footer#ttr_footer .html_content ul li h5,  footer#ttr_footer .html_content ul li h6
 {
@@ -3509,11 +3497,11 @@ text-shadow:none;text-align:left;
 text-decoration:none;}
  #ttr_content blockquote p:before, .editor-styles-wrapper blockquote p:before
 {
-content:url(images/1473870881blockquotestarticon.png);
+content:url(images/1480658372blockquotestarticon.png);
 }
  #ttr_content blockquote p:after, .editor-styles-wrapper blockquote p:after
 {
-content:url(images/1473870881blockquoteendicon.png);
+content:url(images/1480658372blockquoteendicon.png);
 }
 table.table
 {
